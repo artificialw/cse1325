@@ -13,14 +13,21 @@ public class Pet {
     public String toString() {
         return name + " is a " + type + " age " + age;
     }
+}
 
-    Pet[] pets = {new Pet("Lola", Pet.Type.Horse, 6),
-    new Pet("Shadow", Pet.Type.Fish, 2),
-    new Pet("Chloe", Pet.Type.Turtle, 52),
-    new Pet("Oreo", Pet.Type.Wolf, 4)};
+public class MyPets {
+    public static void main(String args[]) {
+        Pet[] pets = {
+            new Pet("Lola", Pet.Type.Horse, 6),
+            new Pet("Shadow", Pet.Type.Fish, 2),
+            new Pet("Chloe", Pet.Type.Turtle, 52),
+            new Pet("Oreo", Pet.Type.Wolf, 4)
+        };
 
-    for (Pet pet : pets) {
-        System.out.println(pet);
+        for (Pet pet : pets) {
+            System.out.println(pet);
+        }
     }
+
 }
 

@@ -1,3 +1,3 @@
 public enum Type {
-    Horse, Fish, Turtle, Wolf
+    Horse, Fish, Turtle, Wolf;
 }

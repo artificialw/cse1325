@@ -303,5 +303,15 @@ public class MainWin extends JFrame {
     } 
     private JLabel computers;
     private JLabel msg;
+    private JLabel title;
+    private JLabel licensers;
+    private JButton newStoreB;
+    private JButton insertButton1;
+    private JButton insertButton2;
+    private JButton insertButton3;
+    private JButton viewButton1;
+    private JButton viewButton2;
+    private JButton viewButton3;
+    private JButton quitB;
 
 }

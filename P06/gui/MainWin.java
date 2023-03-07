@@ -247,19 +247,19 @@ public class MainWin extends JFrame {
         Object[] records = null;
     
         switch(record) {
-            case "Customers":
+            case "Customer":
                 header = "Customers";
                 records = store.getCustomer();
                 break;
-            case "Options":
+            case "Option":
                 header = "Options";
                 records = store.getOption();
                 break;
-            case "Computers":
+            case "Computer":
                 header = "Computers";
                 records = store.getComputer();
                 break;
-            case "Orders":
+            case "Order":
                 header = "Orders";
                 records = store.getOrder();
                 break;

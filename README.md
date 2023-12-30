@@ -7,5 +7,5 @@ This class was taken between 01/2023-05/2023 and was taught by Professor Rice at
 Every week during this class, we were given an assignment and there were three requirements that could be met, these included:
 - Full Credit 
 - Bonus
-- Extreme Bonus\n
-Both Bonus and Extreme Bonus would be add-ons to the Full Credit. Each assignment has a README file that explains the requirements that needed to be met for each program.
+- Extreme Bonus
+- Both Bonus and Extreme Bonus would be add-ons to the Full Credit. Each assignment has a README file that explains the requirements that needed to be met for each program.

@@ -5,8 +5,8 @@ This class was taken between 01/2023-05/2023 and was taught by Professor Rice at
 
 ## Navigation
 Every week during this class, we were given an assignment and there were three requirements that could be met, these included:
-- Full Credit 
-- Bonus
-- Extreme Bonus
+- Full Credit: The initial assignment.
+- Bonus: Extra credit that can be completed for the assignment, increasing the difficulty of the assignment.
+- Extreme Bonus: Extra credit that included topics that were never discussed during class, making this extremely difficult at times.
 - Both Bonus and Extreme Bonus would be add-ons to the Full Credit.
-- Between P05-P07 and P10-P13 would be our fictional online computer store, ELSA
+- Between P05-P07 and P10-P13 would be our fictional online computer store, ELSA.

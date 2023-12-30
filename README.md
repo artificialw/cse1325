@@ -8,4 +8,5 @@ Every week during this class, we were given an assignment and there were three r
 - Full Credit 
 - Bonus
 - Extreme Bonus
-- Both Bonus and Extreme Bonus would be add-ons to the Full Credit. Each assignment has a README file that explains the requirements that needed to be met for each program.
+- Both Bonus and Extreme Bonus would be add-ons to the Full Credit.
+- Between P05-P07 and P10-P13 would be our online computer store, ELSA

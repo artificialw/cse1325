@@ -9,4 +9,4 @@ Every week during this class, we were given an assignment and there were three r
 - Bonus
 - Extreme Bonus
 - Both Bonus and Extreme Bonus would be add-ons to the Full Credit.
-- Between P05-P07 and P10-P13 would be our online computer store, ELSA
+- Between P05-P07 and P10-P13 would be our fictional online computer store, ELSA
